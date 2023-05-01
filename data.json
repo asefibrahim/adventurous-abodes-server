@@ -40,5 +40,40 @@
         "name": "Taman Negara",
         "image_url": "https://images.unsplash.com/photo-1571589246138-60dc080e4c09?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=627&q=80",
         "description": "Taman Negara is a national park in Peninsular Malaysia, known for its dense rainforests, wildlife, and scenic beauty. Visitors can go on jungle treks, river cruises, and canopy walks to explore the park's natural wonders, or visit the Orang Asli settlements to learn about the indigenous peoples who live in the area. Taman Negara."
+    },
+    {
+        "id": 1,
+        "name": "Taman Negara Resort",
+        "location": "Kuala Tahan, Pahang",
+        "description": "Taman Negara Resort is located at the entrance of Taman Negara National Park, offering a comfortable and convenient stay for visitors. The resort features chalets and rooms with modern amenities, a restaurant, and tour services.",
+        "image_url": "https://www.example.com/taman-negara-resort.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Mutiara Taman Negara",
+        "location": "Kuala Tahan, Pahang",
+        "description": "Mutaira Taman Negara is a luxury eco-resort located in the heart of Taman Negara National Park. The resort features traditional Malay architecture, comfortable chalets and rooms, a spa, and a range of activities such as jungle trekking and river cruising.",
+        "image_url": "https://www.example.com/mutaira-taman-negara.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Rainforest Resort Taman Negara",
+        "location": "Kuala Tahan, Pahang",
+        "description": "Rainforest Resort Taman Negara is a secluded retreat nestled in the rainforest of Taman Negara National Park. The resort features spacious chalets and villas with private balconies, a restaurant serving local and Western cuisine, and a range of activities such as guided hikes and wildlife spotting.",
+        "image_url": "https://www.example.com/rainforest-resort-taman-negara.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Xcape Resort Taman Negara",
+        "location": "Kuala Tahan, Pahang",
+        "description": "Xcape Resort Taman Negara offers a unique glamping experience in the rainforest of Taman Negara National Park. The resort features luxury tents with modern amenities, a restaurant serving Malaysian and Western cuisine, and a range of activities such as kayaking and canopy walks.",
+        "image_url": "https://www.example.com/xcape-resort-taman-negara.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Kumbang Hideaway Taman Negara",
+        "location": "Kuala Tahan, Pahang",
+        "description": "Kumbang Hideaway Taman Negara is a rustic retreat located in the rainforest of Taman Negara National Park. The resort features traditional wooden chalets, a communal dining area, and a range of activities such as night walks and river tubing.",
+        "image_url": "https://www.example.com/kumbang-hideaway-taman-negara.jpg"
     }
 ]
